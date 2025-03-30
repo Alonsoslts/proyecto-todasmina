@@ -20,3 +20,4 @@ tCelda dame_celda(const tTablero& tablero, int fila, int columna);
 bool es_valida(tTablero& tablero, int fila, int columna);
 void poner_celda(tTablero& tablero, int fila, int columna, tCelda celda);
 
+/pull 
